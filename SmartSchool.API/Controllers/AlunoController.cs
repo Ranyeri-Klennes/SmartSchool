@@ -20,7 +20,7 @@ namespace SmartSchool.API.Controllers
                 Nome = "Lucas",
                 Sobrenome = "Mateus",
                 Telefone = "4567-9632"
-            }
+            },
         };
         [HttpGet]
         public IActionResult Get()
