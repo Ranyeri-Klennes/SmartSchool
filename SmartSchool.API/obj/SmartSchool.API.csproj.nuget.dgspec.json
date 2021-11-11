@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMERCIAL02\\Desktop\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {}
+    "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMERCIAL02\\Desktop\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {
+    "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMERCIAL02\\Desktop\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
+        "projectUniqueName": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
         "projectName": "SmartSchool.API",
-        "projectPath": "C:\\Users\\COMERCIAL02\\Desktop\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
+        "projectPath": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
         "packagesPath": "C:\\Users\\COMERCIAL02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMERCIAL02\\Desktop\\SmartSchool\\SmartSchool.API\\obj\\",
+        "outputPath": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COMERCIAL02\\AppData\\Roaming\\NuGet\\NuGet.Config"
