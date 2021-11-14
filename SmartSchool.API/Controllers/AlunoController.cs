@@ -23,27 +23,55 @@ namespace SmartSchool.API.Controllers
                 Telefone = "4567-9632"
             },
         };
+        //> Aqui eu puxo um Get do HTTP
         [HttpGet]
         public IActionResult Get()
         {
             return Ok(Alunos);
         }
         
-        [HttpGet("byId")] //> Utilizando o QueryString "byId?="
+        [HttpGet("byId/{id}")] //> Utilizando o QueryString
         public IActionResult GetById(int id)
         {
             var aluno = Alunos.FirstOrDefault(a => a.Id == id);
             if (aluno == null) return BadRequest("O aluno não foi encontrado");
 
-            return Ok(Alunos);
+            return Ok(aluno);
         }
 
-        [HttpGet("{nome}")]
-        public IActionResult GetByName(string nome)
+        [HttpGet("{ByName}")]
+        public IActionResult GetByName(string nome, string Sobrenome)
         {
-            var aluno = Alunos.FirstOrDefault(a => a.Nome.Contains(nome));
+            var aluno = Alunos.FirstOrDefault(a => 
+                a.Nome.Contains(nome) && a.Sobrenome.Contains(Sobrenome));
+            
             if (aluno == null) return BadRequest("Aluno não encontrado");
-            return Ok(Alunos);
+            
+            return Ok(aluno);
+        }
+
+        [HttpPost]
+        public IActionResult Post(int id, Aluno aluno)
+        {
+            return Ok(aluno);
+        }
+
+        [HttpPut]
+        public IActionResult Put(int id, Aluno aluno)
+        {
+            return Ok(aluno);
+        }
+        
+        [HttpPatch]
+        public IActionResult Patch(int id, Aluno aluno)
+        {
+            return Ok(aluno);
+        }
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            return Ok();
         }
     }
 }

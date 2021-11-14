@@ -56,3 +56,32 @@ C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\SmartSchool\SmartSchool.API\o
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\SmartSchool\SmartSchool.API\obj\Debug\net5.0\ref\SmartSchool.API.dll
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.pdb
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.genruntimeconfig.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.pdb
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\SmartSchool.API.exe
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\SmartSchool.API.deps.json
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\SmartSchool.API.runtimeconfig.json
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\SmartSchool.API.runtimeconfig.dev.json
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\SmartSchool.API.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\ref\SmartSchool.API.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\SmartSchool.API.pdb
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.csproj.AssemblyReference.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.AssemblyInfoInputs.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.AssemblyInfo.cs
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.csproj.CoreCompileInputs.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\scopedcss\bundle\SmartSchool.API.styles.css
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\staticwebassets\SmartSchool.API.StaticWebAssets.Manifest.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.RazorTargetAssemblyInfo.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.csproj.CopyComplete
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\ref\SmartSchool.API.dll
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\SmartSchool.API.genruntimeconfig.cache
+C:\Users\ranye\OneDrive\Área de Trabalho\SmartSchool\SmartSchool\SmartSchool.API\obj\Debug\net5.0\staticwebassets\SmartSchool.API.StaticWebAssets.xml

@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\COMERCIAL02\\.nuget\\packages\\": {}
+    "C:\\Users\\ranye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
+      "projectUniqueName": "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
       "projectName": "SmartSchool.API",
-      "projectPath": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
-      "packagesPath": "C:\\Users\\COMERCIAL02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\SmartSchool\\SmartSchool.API\\obj\\",
+      "projectPath": "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\SmartSchool\\SmartSchool\\SmartSchool.API\\SmartSchool.API.csproj",
+      "packagesPath": "C:\\Users\\ranye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\SmartSchool\\SmartSchool\\SmartSchool.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\COMERCIAL02\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ranye\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -252,7 +252,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
