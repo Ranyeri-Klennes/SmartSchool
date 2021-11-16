@@ -9,7 +9,7 @@ namespace SmartSchool.API.Controllers
     [Route("api/[controller]")] //> Informando a rota Http
     public class AlunoController : ControllerBase //> Class herda de ControllerBase
     {//> Abaixo crio objetos e suas caracteristicas
-        public List<Aluno> Alunos = new List<Aluno>() {
+        public List<Aluno> Alunos = new List<Aluno>() {//> Objetos
             new Aluno() {
                 Id = 1,
                 Nome = "João",
