@@ -5,10 +5,10 @@ using SmartSchool.API.Models;
 
 namespace SmartSchool.API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class AlunoController : ControllerBase
-    {
+    [ApiController]//> Evita fazer algumas validações em cada action da Controller
+    [Route("api/[controller]")] //> Informando a rota Http
+    public class AlunoController : ControllerBase //> Class herda de ControllerBase
+    {//> Abaixo crio objetos e suas caracteristicas
         public List<Aluno> Alunos = new List<Aluno>() {
             new Aluno() {
                 Id = 1,
