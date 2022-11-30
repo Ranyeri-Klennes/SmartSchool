@@ -5,10 +5,13 @@ using SmartSchool.API.Models;
 
 namespace SmartSchool.API.Controllers
 {
-    [ApiController]//> Evita fazer algumas validações em cada action da Controller
-    [Route("api/[controller]")] //> Informando a rota Http
+    // Evita fazer algumas validações em cada action da Controller
+    [ApiController]
+    // Informando a rota Http
+    [Route("api/[controller]")]
     public class AlunoController : ControllerBase //> Class herda de ControllerBase
-    {//> Abaixo crio objetos e suas caracteristicas
+    {
+        // Abaixo crio objetos e suas caracteristicas
         public List<Aluno> Alunos = new List<Aluno>() {//> Objetos
             new Aluno() {
                 Id = 1,
@@ -23,14 +26,15 @@ namespace SmartSchool.API.Controllers
                 Telefone = "4567-9632"
             },
         };
-        //> Aqui eu puxo um Get do HTTP
+        // Aqui eu puxo um Get do HTTP
         [HttpGet]
         public IActionResult Get()
         {
             return Ok(Alunos);
         }
-        
-        [HttpGet("byId/{id}")] //> Utilizando o QueryString
+
+        // Utilizando o QueryString
+        [HttpGet("byId/{id}")]
         public IActionResult GetById(int id)
         {
             var aluno = Alunos.FirstOrDefault(a => a.Id == id);
